@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721382822045
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721390188684
+  login: 1721389928218
+  kits:
+    landclaim: 1721387712630
+money: '0.0'
+last-account-name: MeWantBread
+logoutlocation:
+  world: 9491dd25-0474-4f60-b1fc-6798e5c89b94
+  world-name: world
+  x: -89.03316172514936
+  y: 103.0
+  z: -54.92658582691098
+  yaw: -45.74912643432617
+  pitch: 4.199974060058594
+lastlocation:
+  world: 9491dd25-0474-4f60-b1fc-6798e5c89b94
+  world-name: world
+  x: -67.06199534480173
+  y: 111.62677344542918
+  z: -65.24925765215818
+  yaw: 135.59930419921875
+  pitch: 20.85017967224121
+homes:
+  home:
+    world: 9491dd25-0474-4f60-b1fc-6798e5c89b94
+    world-name: world
+    x: -80.54885981479796
+    y: 104.0
+    z: -79.1073213606755
+    yaw: 144.29922485351562
+    pitch: 61.80015182495117
